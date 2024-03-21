@@ -1,0 +1,14 @@
+C:\Users\nan2p\OneDrive\Escritorio\Train\EncriptarDesincreptar\bin\Debug\net8.0\EncriptarDesincreptar.exe
+C:\Users\nan2p\OneDrive\Escritorio\Train\EncriptarDesincreptar\bin\Debug\net8.0\EncriptarDesincreptar.deps.json
+C:\Users\nan2p\OneDrive\Escritorio\Train\EncriptarDesincreptar\bin\Debug\net8.0\EncriptarDesincreptar.runtimeconfig.json
+C:\Users\nan2p\OneDrive\Escritorio\Train\EncriptarDesincreptar\bin\Debug\net8.0\EncriptarDesincreptar.dll
+C:\Users\nan2p\OneDrive\Escritorio\Train\EncriptarDesincreptar\bin\Debug\net8.0\EncriptarDesincreptar.pdb
+C:\Users\nan2p\OneDrive\Escritorio\Train\EncriptarDesincreptar\obj\Debug\net8.0\EncriptarDesincreptar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nan2p\OneDrive\Escritorio\Train\EncriptarDesincreptar\obj\Debug\net8.0\EncriptarDesincreptar.AssemblyInfoInputs.cache
+C:\Users\nan2p\OneDrive\Escritorio\Train\EncriptarDesincreptar\obj\Debug\net8.0\EncriptarDesincreptar.AssemblyInfo.cs
+C:\Users\nan2p\OneDrive\Escritorio\Train\EncriptarDesincreptar\obj\Debug\net8.0\EncriptarDesincreptar.csproj.CoreCompileInputs.cache
+C:\Users\nan2p\OneDrive\Escritorio\Train\EncriptarDesincreptar\obj\Debug\net8.0\EncriptarDesincreptar.dll
+C:\Users\nan2p\OneDrive\Escritorio\Train\EncriptarDesincreptar\obj\Debug\net8.0\refint\EncriptarDesincreptar.dll
+C:\Users\nan2p\OneDrive\Escritorio\Train\EncriptarDesincreptar\obj\Debug\net8.0\EncriptarDesincreptar.pdb
+C:\Users\nan2p\OneDrive\Escritorio\Train\EncriptarDesincreptar\obj\Debug\net8.0\EncriptarDesincreptar.genruntimeconfig.cache
+C:\Users\nan2p\OneDrive\Escritorio\Train\EncriptarDesincreptar\obj\Debug\net8.0\ref\EncriptarDesincreptar.dll
